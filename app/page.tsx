@@ -41,7 +41,7 @@ const card: cardProps[] = [
     href: "https://wacren.zoom.us/j/69696387523?pwd=xbUMT4GDaLRiN4oTElHHr6ktGaWgBM.1",
   },
   {
-    text: "vl3",
-    href: "https://vle3.com",
+    text: "soon",
+    href: "#",
   },
 ];
